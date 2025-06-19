@@ -23,6 +23,14 @@ Preparatoria
 - Participación activa
 - Respuestas en hoja de pista
 - Discusión al final sobre lo aprendido
+- Rúbrica de autoevaluación al final con los siguientes criterios:
+
+| Criterio                      | Excelente | Satisfactorio | Mejorable |
+|------------------------------|-----------|----------------|-----------|
+| Completó todas las pistas    | ✅         | ⬜             | ⬜         |
+| Participó activamente en el equipo | ✅  | ⬜             | ⬜         |
+| Compartió reflexiones al final | ✅     | ⬜             | ⬜         |
+
 
 ## Créditos
 Adaptado por Alberto Rebolledo
